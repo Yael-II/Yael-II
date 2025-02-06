@@ -3,6 +3,6 @@
 - 🔭 Animateur-Médiateur au Centre Astro de St.-Michel-l'Observatoire
 
 
-=== [ EN ] ===
+=== [ EN ] ===
 - 📚 Master of Astrophysics and Data Science at the Observatoire astronomique de Strasbourg
 - 🔭 Animator-Mediator at the Centre Astro de St.-Michel-l'Observatoire

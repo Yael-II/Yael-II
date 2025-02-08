@@ -1,7 +1,3 @@
-=== [ EN ] ===
-- 📚 Master of Astrophysics and Data Science at the Observatoire astronomique de Strasbourg
-- 🔭 Animator-Mediator at the Centre Astro de St.-Michel-l'Observatoire
+`/!\ Important /!\`
 
-=== [ FR ] ===
-- 📚 Master d'astrophysique et science des données à l'Observatoire astronomique de Strasbourg
-- 🔭 Animateur-Médiateur au Centre Astro de St.-Michel-l'Observatoire
+All my repositories are now hosted and updated on [Codeberg](https://codeberg.org/Yael-II). Repositories on Github are no longer updated.
